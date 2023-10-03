@@ -1,0 +1,18 @@
+.from-1.inline {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-picture{
+    justify-content: center;
+    align-items: center;
+    width: 1150px;
+}
+.text-center{
+    color: blue;
+}
+.text{
+    color:blue;
+}
